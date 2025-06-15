@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pmod")(type "KiCad")(uri "C:/Users/wangpo-asus-exp/Downloads/kicad-tinytapeout-pmod-lib-main/kicad-tinytapeout-pmod-lib-main/TinyTapeout_PMOD.pretty")(options "")(descr ""))
+)
